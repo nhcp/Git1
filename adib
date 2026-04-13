@@ -3,3 +3,22 @@ hello adeeb
 11111111111111111
 11111111111111111
 1111111111111111111
+
+# Module 1, Lesson 01: Introduction to DevOps
+
+## The Conflict
+Traditionally, "Development" and "Operations" were separate silos. [cite_start]"Dev" created software, and "Ops" was responsible for keeping it running. [cite: 832, 836]
+
+## The Problem
+[cite_start]This caused "The Wall of Confusion," where developers pushed code without knowing if the server could handle it, leading to bugs and crashes. [cite: 838]
+
+## The DevOps Solution
+[cite_start]It is the practice of combining **Development (Dev)** and **Information Technology Operations (Ops)**. [cite: 836]
+
+## The Goal
+[cite_start]To shorten the systems development life cycle and provide continuous delivery with high software quality. [cite: 838]
+
+## DevOps Engineer Responsibilities
+* [cite_start]Act as the bridge between teams. 
+* [cite_start]Automate infrastructure. [cite: 832]
+* [cite_start]Ensure code flows smoothly from laptop to live server.
